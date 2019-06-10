@@ -1,0 +1,7 @@
+
+graphth.log
+*.lot
+*.aux
+*.out
+*.gz
+*.toc

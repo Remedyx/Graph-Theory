@@ -1,0 +1,263 @@
+<?xml version="1.1" encoding="windows-1252"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw"
+    version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="rectangle" id="id20102857">
+            <rect x="221.0" y="121.0" width="138.0" height="158.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id27064552">
+            <polyline points="220.0,120.0 180.0,200.0 220.0,280.0 "
+                stroke-width="2.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id20844953">
+            <polyline points="360.0,120.0 320.0,60.0 220.0,280.0 "
+                stroke-width="2.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="bezierCurve" id="id3749043">
+            <path
+                d="M 360.0 280.0 C 380.0 280.0 400.0 250.0 400.0 200.0 C 400.0 150.0 380.0 120.0 360.0 120.0 "
+                stroke-width="2.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="bezierCurve" id="id8866973">
+            <path
+                d="M 220.0 280.0 C 234.70429244187616 327.7889504360975 353.01032882557837 337.08715315433506 400.0 320.0 C 446.98967117442163 302.91284684566494 460.0 280.0 440.0 200.0 C 420.0 120.0 366.9896711744219 42.9128468456648 320.0 60.0 "
+                stroke-width="2.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="dot" id="id11911261" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="180.0 200.0">
+            <path
+                d="M 184.6153846153846 200.0 C 184.6153846153846 202.54900653768058 182.54900653768058 204.6153846153846 180.0 204.6153846153846 C 177.45099346231942 204.6153846153846 175.3846153846154 202.54900653768058 175.3846153846154 200.0 C 175.3846153846154 197.45099346231942 177.45099346231942 195.3846153846154 180.0 195.3846153846154 C 182.54900653768058 195.3846153846154 184.6153846153846 197.45099346231942 184.6153846153846 200.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id12093236" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="220.0 120.0">
+            <path
+                d="M 224.6153846153846 120.0 C 224.6153846153846 122.54900653768058 222.54900653768058 124.61538461538461 220.0 124.61538461538461 C 217.45099346231942 124.61538461538461 215.3846153846154 122.54900653768058 215.3846153846154 120.0 C 215.3846153846154 117.45099346231942 217.45099346231942 115.38461538461539 220.0 115.38461538461539 C 222.54900653768058 115.38461538461539 224.6153846153846 117.45099346231942 224.6153846153846 120.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id8760446" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="360.0 120.0">
+            <path
+                d="M 364.6153846153846 120.0 C 364.6153846153846 122.54900653768058 362.54900653768055 124.61538461538461 360.0 124.61538461538461 C 357.4509934623194 124.61538461538461 355.38461538461536 122.54900653768058 355.38461538461536 120.0 C 355.38461538461536 117.45099346231942 357.4509934623194 115.38461538461539 360.0 115.38461538461539 C 362.54900653768055 115.38461538461539 364.6153846153846 117.45099346231942 364.6153846153846 120.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id11757610" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="360.0 280.0">
+            <path
+                d="M 364.6153846153846 280.0 C 364.6153846153846 282.54900653768055 362.54900653768055 284.6153846153846 360.0 284.6153846153846 C 357.4509934623194 284.6153846153846 355.38461538461536 282.54900653768055 355.38461538461536 280.0 C 355.38461538461536 277.4509934623194 357.4509934623194 275.38461538461536 360.0 275.38461538461536 C 362.54900653768055 275.38461538461536 364.6153846153846 277.4509934623194 364.6153846153846 280.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id13073681" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="220.0 280.0">
+            <path
+                d="M 224.6153846153846 280.0 C 224.6153846153846 282.54900653768055 222.54900653768058 284.6153846153846 220.0 284.6153846153846 C 217.45099346231942 284.6153846153846 215.3846153846154 282.54900653768055 215.3846153846154 280.0 C 215.3846153846154 277.4509934623194 217.45099346231942 275.38461538461536 220.0 275.38461538461536 C 222.54900653768058 275.38461538461536 224.6153846153846 277.4509934623194 224.6153846153846 280.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id27621027" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="320.0 60.0">
+            <path
+                d="M 324.6153846153846 60.0 C 324.6153846153846 62.54900653768058 322.54900653768055 64.61538461538461 320.0 64.61538461538461 C 317.4509934623194 64.61538461538461 315.38461538461536 62.54900653768058 315.38461538461536 60.0 C 315.38461538461536 57.45099346231942 317.4509934623194 55.38461538461539 320.0 55.38461538461539 C 322.54900653768055 55.38461538461539 324.6153846153846 57.45099346231942 324.6153846153846 60.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id33358488">
+            <polyline
+                points="560.0,100.0 560.0,180.0 620.0,140.0 560.0,100.0 560.0,100.0 "
+                stroke-width="2.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id21383717">
+            <polyline points="620.0,140.0 680.0,140.0 "
+                stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="dot" id="id8174698" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="560.0 100.0">
+            <path
+                d="M 564.6153846153846 100.0 C 564.6153846153846 102.54900653768058 562.5490065376806 104.61538461538461 560.0 104.61538461538461 C 557.4509934623194 104.61538461538461 555.3846153846154 102.54900653768058 555.3846153846154 100.0 C 555.3846153846154 97.45099346231942 557.4509934623194 95.38461538461539 560.0 95.38461538461539 C 562.5490065376806 95.38461538461539 564.6153846153846 97.45099346231942 564.6153846153846 100.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id29121852" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="560.0 180.0">
+            <path
+                d="M 564.6153846153846 180.0 C 564.6153846153846 182.54900653768058 562.5490065376806 184.6153846153846 560.0 184.6153846153846 C 557.4509934623194 184.6153846153846 555.3846153846154 182.54900653768058 555.3846153846154 180.0 C 555.3846153846154 177.45099346231942 557.4509934623194 175.3846153846154 560.0 175.3846153846154 C 562.5490065376806 175.3846153846154 564.6153846153846 177.45099346231942 564.6153846153846 180.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id628221" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="620.0 140.0">
+            <path
+                d="M 624.6153846153846 140.0 C 624.6153846153846 142.54900653768058 622.5490065376806 144.6153846153846 620.0 144.6153846153846 C 617.4509934623194 144.6153846153846 615.3846153846154 142.54900653768058 615.3846153846154 140.0 C 615.3846153846154 137.45099346231942 617.4509934623194 135.3846153846154 620.0 135.3846153846154 C 622.5490065376806 135.3846153846154 624.6153846153846 137.45099346231942 624.6153846153846 140.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id8372343" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="680.0 140.0">
+            <path
+                d="M 684.6153846153846 140.0 C 684.6153846153846 142.54900653768058 682.5490065376806 144.6153846153846 680.0 144.6153846153846 C 677.4509934623194 144.6153846153846 675.3846153846154 142.54900653768058 675.3846153846154 140.0 C 675.3846153846154 137.45099346231942 677.4509934623194 135.3846153846154 680.0 135.3846153846154 C 682.5490065376806 135.3846153846154 684.6153846153846 137.45099346231942 684.6153846153846 140.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="rectangle" id="id11266043">
+            <rect x="561.0" y="241.0" width="118.0" height="58.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id5993467">
+            <polyline points="560.0,300.0 680.0,240.0 "
+                stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id26692448">
+            <polyline points="560.0,240.0 680.0,300.0 "
+                stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="dot" id="id25663015" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="560.0 240.0">
+            <path
+                d="M 564.6153846153846 240.0 C 564.6153846153846 242.54900653768058 562.5490065376806 244.6153846153846 560.0 244.6153846153846 C 557.4509934623194 244.6153846153846 555.3846153846154 242.54900653768058 555.3846153846154 240.0 C 555.3846153846154 237.45099346231942 557.4509934623194 235.3846153846154 560.0 235.3846153846154 C 562.5490065376806 235.3846153846154 564.6153846153846 237.45099346231942 564.6153846153846 240.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id19418614" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="560.0 300.0">
+            <path
+                d="M 564.6153846153846 300.0 C 564.6153846153846 302.54900653768055 562.5490065376806 304.6153846153846 560.0 304.6153846153846 C 557.4509934623194 304.6153846153846 555.3846153846154 302.54900653768055 555.3846153846154 300.0 C 555.3846153846154 297.4509934623194 557.4509934623194 295.38461538461536 560.0 295.38461538461536 C 562.5490065376806 295.38461538461536 564.6153846153846 297.4509934623194 564.6153846153846 300.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id19792362" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="680.0 300.0">
+            <path
+                d="M 684.6153846153846 300.0 C 684.6153846153846 302.54900653768055 682.5490065376806 304.6153846153846 680.0 304.6153846153846 C 677.4509934623194 304.6153846153846 675.3846153846154 302.54900653768055 675.3846153846154 300.0 C 675.3846153846154 297.4509934623194 677.4509934623194 295.38461538461536 680.0 295.38461538461536 C 682.5490065376806 295.38461538461536 684.6153846153846 297.4509934623194 684.6153846153846 300.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id32125845" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="680.0 240.0">
+            <path
+                d="M 684.6153846153846 240.0 C 684.6153846153846 242.54900653768058 682.5490065376806 244.6153846153846 680.0 244.6153846153846 C 677.4509934623194 244.6153846153846 675.3846153846154 242.54900653768058 675.3846153846154 240.0 C 675.3846153846154 237.45099346231942 677.4509934623194 235.3846153846154 680.0 235.3846153846154 C 682.5490065376806 235.3846153846154 684.6153846153846 237.45099346231942 684.6153846153846 240.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id18811950">
+            <polyline
+                points="920.0,120.0 840.0,200.0 880.0,280.0 960.0,280.0 1000.0,200.0 920.0,120.0 "
+                stroke-width="2.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id27832301">
+            <polyline points="920.0,120.0 880.0,280.0 "
+                stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id8860296">
+            <polyline points="960.0,280.0 920.0,120.0 "
+                stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id3942799">
+            <polyline points="840.0,200.0 1000.0,200.0 "
+                stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id30089713">
+            <polyline points="960.0,280.0 840.0,200.0 "
+                stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id27258502">
+            <polyline points="880.0,280.0 1000.0,200.0 "
+                stroke-width="2.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="dot" id="id32804440" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="920.0 120.0">
+            <path
+                d="M 924.6153846153846 120.0 C 924.6153846153846 122.54900653768058 922.5490065376806 124.61538461538461 920.0 124.61538461538461 C 917.4509934623194 124.61538461538461 915.3846153846154 122.54900653768058 915.3846153846154 120.0 C 915.3846153846154 117.45099346231942 917.4509934623194 115.38461538461539 920.0 115.38461538461539 C 922.5490065376806 115.38461538461539 924.6153846153846 117.45099346231942 924.6153846153846 120.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id22348821" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="840.0 200.0">
+            <path
+                d="M 844.6153846153846 200.0 C 844.6153846153846 202.54900653768058 842.5490065376806 204.6153846153846 840.0 204.6153846153846 C 837.4509934623194 204.6153846153846 835.3846153846154 202.54900653768058 835.3846153846154 200.0 C 835.3846153846154 197.45099346231942 837.4509934623194 195.3846153846154 840.0 195.3846153846154 C 842.5490065376806 195.3846153846154 844.6153846153846 197.45099346231942 844.6153846153846 200.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id27035066" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="880.0 280.0">
+            <path
+                d="M 884.6153846153846 280.0 C 884.6153846153846 282.54900653768055 882.5490065376806 284.6153846153846 880.0 284.6153846153846 C 877.4509934623194 284.6153846153846 875.3846153846154 282.54900653768055 875.3846153846154 280.0 C 875.3846153846154 277.4509934623194 877.4509934623194 275.38461538461536 880.0 275.38461538461536 C 882.5490065376806 275.38461538461536 884.6153846153846 277.4509934623194 884.6153846153846 280.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id9511951" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="960.0 280.0">
+            <path
+                d="M 964.6153846153846 280.0 C 964.6153846153846 282.54900653768055 962.5490065376806 284.6153846153846 960.0 284.6153846153846 C 957.4509934623194 284.6153846153846 955.3846153846154 282.54900653768055 955.3846153846154 280.0 C 955.3846153846154 277.4509934623194 957.4509934623194 275.38461538461536 960.0 275.38461538461536 C 962.5490065376806 275.38461538461536 964.6153846153846 277.4509934623194 964.6153846153846 280.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="dot" id="id27525907" latexdraw:size="10.0"
+            latexdraw:dotShape="*" latexdraw:position="1000.0 200.0">
+            <path
+                d="M 1004.6153846153846 200.0 C 1004.6153846153846 202.54900653768058 1002.5490065376806 204.6153846153846 1000.0 204.6153846153846 C 997.4509934623194 204.6153846153846 995.3846153846154 202.54900653768058 995.3846153846154 200.0 C 995.3846153846154 197.45099346231942 997.4509934623194 195.3846153846154 1000.0 195.3846153846154 C 1002.5490065376806 195.3846153846154 1004.6153846153846 197.45099346231942 1004.6153846153846 200.0 z "
+                fill="black" stroke-linecap="square"
+                stroke-linejoin="butt" stroke-width="0.625"
+                stroke-miterlimit="10.0" stroke-dashoffset="0.0" stroke="black"/>
+        </g>
+        <g latexdraw:type="text" id="id6225670" fill="black" latexdraw:position="bl">
+            <text x="140.0" y="200.0">$G$</text>
+        </g>
+        <g latexdraw:type="text" id="id10054516" fill="black" latexdraw:position="bl">
+            <text x="620.0" y="100.0">$H_1 \subset G$</text>
+        </g>
+        <g latexdraw:type="text" id="id29767138" fill="black" latexdraw:position="bl">
+            <text x="620.0" y="220.0">$H_2 \subset G$</text>
+        </g>
+        <g latexdraw:type="text" id="id31545878" fill="black" latexdraw:position="bl">
+            <text x="820.0" y="140.0">$H_3 \not\subset G$</text>
+        </g>
+    </g>
+    <defs/>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:latexIncludes>\usepackage{amssymb}</latexdraw:latexIncludes>
+            <latexdraw:displayXScale>true</latexdraw:displayXScale>
+            <latexdraw:displayYScale>true</latexdraw:displayYScale>
+            <latexdraw:unit>CM</latexdraw:unit>
+            <latexdraw:zoom>1.0</latexdraw:zoom>
+            <latexdraw:magneticGridStyle>CUSTOMISED</latexdraw:magneticGridStyle>
+            <latexdraw:gridGap>20</latexdraw:gridGap>
+            <latexdraw:magneticGrid>true</latexdraw:magneticGrid>
+            <latexdraw:version>3.3.8</latexdraw:version>
+            <latexdraw:size>
+                <latexdraw:width>1034</latexdraw:width>
+                <latexdraw:height>827</latexdraw:height>
+            </latexdraw:size>
+            <latexdraw:position>
+                <latexdraw:x>19.0</latexdraw:x>
+                <latexdraw:y>113.0</latexdraw:y>
+            </latexdraw:position>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
